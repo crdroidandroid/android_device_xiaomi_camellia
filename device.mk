@@ -374,6 +374,7 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
     ApertureOverlayCamellia \
+    ApertureQRScannerOverlayCamellia \
     CarrierConfigOverlayCamellia \
     FrameworksResOverlayCamellia \
     SettingsOverlayCamellia \
