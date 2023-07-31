@@ -13,10 +13,6 @@
     "branch":"13.0-camellia"
   },
   {
-    "repository":"crdroidandroid/android_hardware_mediatek_wlan",
-    "target_path":"hardware/mediatek/wlan"
-  },
-  {
     "repository":"crdroidandroid/android_device_mediatek_sepolicy_vndr",
     "target_path":"device/mediatek/sepolicy_vndr"
   }
