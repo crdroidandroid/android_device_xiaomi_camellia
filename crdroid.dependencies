@@ -13,6 +13,11 @@
     "branch":"13.0-camellia"
   },
   {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-20"
+  },
+  {
     "repository":"crdroidandroid/android_device_mediatek_sepolicy_vndr",
     "target_path":"device/mediatek/sepolicy_vndr"
   }
